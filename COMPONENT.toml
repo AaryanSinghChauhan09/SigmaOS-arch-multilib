@@ -3,7 +3,7 @@ name = "SigmaOS-arch-multilib"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-multilib component"
+description = "SigmaOS SigmaOS-arch-multilib component"
 upstream = []
 
 [contract]
