@@ -1,6 +1,6 @@
-# SigmaOS-arch-multilib
+# SigmaOS-multilib
 
-SigmaOS SigmaOS-arch-multilib component
+SigmaOS SigmaOS-multilib component
 
 - **Category:** Components
 - **Engine:** component

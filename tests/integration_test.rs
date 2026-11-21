@@ -1,4 +1,4 @@
-use arch_multilib::Component;
+use sigmaos_multilib::Component;
 
 #[test]
 fn test_component_new_aaa() {
